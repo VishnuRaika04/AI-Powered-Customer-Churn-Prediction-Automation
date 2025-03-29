@@ -1,0 +1,22 @@
+Customer-Churn-Prediction-Automation/
+│-- data/
+│   ├── churn_data.csv
+│   ├── processed_data.csv
+│
+│-- notebooks/
+│   ├── 1_EDA.ipynb
+│   ├── 2_Model_Training.ipynb
+│   ├── 3_Deployment.ipynb
+│
+│-- automation/
+│   ├── send_email.py
+│   ├── chatbot_integration.py
+│
+│-- deployment/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── churn_model.pkl
+│
+│-- README.md
+│-- LICENSE
+│-- .gitignore
